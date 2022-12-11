@@ -1,0 +1,47 @@
+{
+  "films": [
+    {
+      "id": 1,
+      "year": "2022",
+      "name": "Black Adam",
+      "time": "125 minut",
+      "category": "Science-Fiction",
+      "img": "https://fwcdn.pl/fpo/49/45/824945/8035040.3.jpg",
+      "src": "../../../movie.mp4",
+      "text": "Prawie 5000 lat po otrzymaniu olbrzymich mocy starożytnych bogów – i prawie równoczesnym uwięzieniu - Black Adam (Johnson) zostaje uwolniony z ziemskiego grobowca. Teraz jest gotów wymierzyć współczesnemu światu osobliwie pojmowaną sprawiedliwość."
+    },
+    {
+      "id": 2,
+      "year": "2022",
+      "name": "Dzika noc",
+      "time": "111 minut",
+      "category": "Thriller",
+      "img": "https://fwcdn.pl/fpo/60/21/10016021/8038694.3.jpg",
+      "src": "../../../movie.mp4",
+
+      "text": "Kiedy pewna, bogata rodzina zostaje zakładnikami w Wigilię, przestępcy nie są przygotowani na niespodziewanego bojownika. Święty Mikołaj (w tej roli David Harbour, serial Stranger Things) jest na miejscu i ma zamiar pokazać, dlaczego Mikołaj nie będzie taki święty."
+    },
+    {
+      "id": 3,
+      "year": "2022",
+      "name": "Demon Slayer: Mugen Train",
+      "time": "120 minut",
+      "category": "Anime",
+      "img": "https://media.multikino.pl/uploads/images/films_and_events/demonslayer-poster-polish-web-cut_a078c01b4e.JPG",
+      "src": "../../../movie.mp4",
+
+      "text": "Po ukończeniu treningu rehabilitacyjnego, Tanjiro i jego towarzysze udają się na kolejną misję. W Nieskończonym Pociągu doszło do serii tajemniczych zniknięć ponad czterdziestu pasażerów. Tanjiro i Nezuko, wraz z Zenitsu i Inosuke, dołączą do jednego z najpotężniejszych szermierzy wśród Korpusu Zabójców Demonów - Filara Płomienia, Kyojuro Rengoku. Razem stawią czoła nieznanemu zagrożeniu."
+    },
+    {
+      "id": 4,
+      "year": "2022",
+      "name": "Egzorcyzmy siostry Ann",
+      "time": "94 minuty",
+      "category": "Horror",
+      "img": "https://fwcdn.pl/fpo/00/55/860055/8022605.3.jpg",
+      "src": "../../../movie.mp4",
+
+      "text": "Po ukończeniu treningu rehabilitacyjnego, Tanjiro i jego towarzysze udają się na kolejną misję. W Nieskończonym Pociągu doszło do serii tajemniczych zniknięć ponad czterdziestu pasażerów. Tanjiro i Nezuko, wraz z Zenitsu i Inosuke, dołączą do jednego z najpotężniejszych szermierzy wśród Korpusu Zabójców Demonów - Filara Płomienia, Kyojuro Rengoku. Razem stawią czoła nieznanemu zagrożeniu."
+    }
+  ]
+}
